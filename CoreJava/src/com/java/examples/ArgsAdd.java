@@ -11,7 +11,7 @@ public class ArgsAdd {
 		next=Integer.parseInt(args[3]);
 		sum+=next;
 		System.out.println("Sum of 4 numbers = " +sum);
-
+System.out.println("add");
 
 
 	}
